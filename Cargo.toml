@@ -1,0 +1,9 @@
+[package]
+name = "malicious-crate"
+version = "0.1.0"
+edition = "2024"
+description = "A (harmless) example malicious crate"
+license = "MIT"
+documentation = "https://docs.rs/malicious-crate"
+
+[dependencies]
